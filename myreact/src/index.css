@@ -1,0 +1,46 @@
+*::-webkit-scrollbar{
+    display: none;
+}
+
+
+Header {
+    position: fixed;
+    width: 100px;
+}
+
+.avatar {
+    background-color: #0000ff;
+    color: #ffffff;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    border-right: 1px solid rgba(39, 39, 255, 0.25);
+    background-color: #e5e5ff;
+}
+
+.body {
+    margin-left: 100px;
+}
+
+.boxjon {
+    height: 90px;
+    transition: 0.2s;
+}
+
+.boxjon2 {
+    transition: 0.5s;
+    height: 90px;
+    background: blue;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+}
